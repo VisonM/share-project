@@ -1,3 +1,3 @@
-# hello webpack!🙋‍♂️
+# hello...goodbye webpack!🙋‍♂️
 
-<img src="./../../\_media/webpack/chdd.JPG"/ >
+<img src="./../../\_media/webpack/chdd.JPG" />
