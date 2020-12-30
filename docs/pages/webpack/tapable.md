@@ -16,7 +16,7 @@ const {
 } = require("tapable");
 ```
 
-<img src="./../../media/webpack/tapable0.png" />
+<img src="media/webpack/tapable0.png" />
 
 ```js
 // simple mock
@@ -39,12 +39,12 @@ class SyncHook {
 
 ### basic&bail
 
-<img src="./../../media/webpack/tapable1.png" />
+<img src="media/webpack/tapable1.png" />
 
 ### waterfall&loop
 
-<img src="./../../media/webpack/tapable2.png" />
+<img src="media/webpack/tapable2.png" />
 
 ### 懒编译
 
-<img src="./../../media/webpack/tapable3.png" />
+<img src="media/webpack/tapable3.png" />

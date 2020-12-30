@@ -25,4 +25,4 @@ module.exports = {
 // runtime chunk
 ```
 
-<img src="./../../media/webpack/chunk.png"/>
+<img src="media/webpack/chunk.png"/>

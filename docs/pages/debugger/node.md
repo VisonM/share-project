@@ -5,10 +5,10 @@
 node --inspect-brk // nomal
 NODE_ENV=staging node --inspect-brk ./node_modules/webpack-cli //设置环境变量
 ```
-<img src="./../../media/debugger/node-terimal.png"/>
+<img src="media/debugger/node-terimal.png"/>
 
 ### step2
 
 访问 chrome://inspect/#devices
 
-<img src="./../../media/debugger/chrome-devices.png"/>
+<img src="media/debugger/chrome-devices.png"/>

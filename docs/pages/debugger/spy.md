@@ -10,7 +10,7 @@ https://github.com/wuchangming/spy-debugger
 
 ### Preview
 
-<img src="./../../media/debugger/shayla-spy.png"/>
+<img src="media/debugger/shayla-spy.png"/>
 
 ### Install
 
