@@ -1,23 +1,13 @@
-# Headline
 
-> An awesome project.
+> An awesome share project.
 
-sdfsdfs
+### Maybe the following things will happen
 
-<img src="./_media/webpack-lifestyle.png" width="50%">
+* 分享者的自我学习
+* 了解webpack的基础
+* 给有兴趣的人提供一些探索帮助
+* 可能给未来的你一些帮助
+* 解决一些可能存在的疑惑，并且新增一些疑惑
+* 更加清晰你自己在做什么
+* 扩展视野
 
-<!-- <script>
-  console.log("asdsad")
-  const ws=new WebSocket("ws://localhost:3001")
-
-  ws.onopen=()=>{
-      console.log("open connection")
-  }
-  ws.onmessage=event=>{
-      console.log(event)
-  }
-//   new Vue({
-//     el: '#main',
-//     data: { msg: 'Vue' }
-//   })
-</script> -->
