@@ -1,0 +1,18 @@
+<!-- docs/_sidebar.md -->
+- [webpack](pages/webpack/intro.md)
+    - [concepts](pages/webpack/concepts.md)
+    - [loader](pages/webpack/loader.md)
+    - [plugin](pages/webpack/plugin.md)
+    - [module](pages/webpack/module.md)
+    - [chunk](pages/webpack/chunk.md)
+    - [tapable](pages/webpack/tapable.md)
+    - [hook](pages/webpack/hook.md)
+    - [hmr](pages/webpack/hmr.md)
+    - [执行流程](pages/webpack/process.md)
+    - [打包结果](pages/webpack/result.md)
+    - [当前webpack配置](pages/webpack/current_project_config.md)
+<!-- - [babel](pages/babel/intro.md) -->
+- [调试](pages/debugger/intro.md)
+    - [node](pages/debugger/node.md)
+    - [mobile](pages/debugger/mobile.md)
+    - [spy-debugger](pages/debugger/spy.md)
