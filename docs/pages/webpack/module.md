@@ -4,4 +4,4 @@
 
 
 ### module解析（resolver）的过程
-<img src="./../../_media/webpack/module.png"/>
+<img src="./../../media/webpack/module.png"/>

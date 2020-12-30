@@ -5,7 +5,7 @@ Hot Module Replacement（以下简称 HMR)
 
 > 当你对代码进行修改并保存后，Webpack 将对代码重新打包，并将新的模块发送到浏览器端，浏览器通过新的模块替换老的模块，这样在不刷新浏览器的前提下就能够对应用进行更新
 
-<img src="./../../_media/webpack/hotModuleReplacement.png">
+<img src="./../../media/webpack/hotModuleReplacement.png">
 
 https://webpack.docschina.org/api/hot-module-replacement/
 
@@ -18,5 +18,5 @@ https://webpack.docschina.org/api/hot-module-replacement/
 7. HotModulePlugin 将会对新旧模块进行对比，决定是否更新模块，在决定更新模块后，检查模块之间的依赖关系，更新模块的同时更新模块间的依赖引用
 8. 当 HMR 失败后，回退到 live reload 操作
 
-<img src="./../../_media/webpack/issue-hmr.png">
-<img src="./../../_media/webpack/sokra-hmr.png">
+<img src="./../../media/webpack/issue-hmr.png">
+<img src="./../../media/webpack/sokra-hmr.png">

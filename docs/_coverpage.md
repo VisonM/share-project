@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/logo.gif)
+![logo](media/logo.gif)
 
 # Vision_X <small>💋</small>
 

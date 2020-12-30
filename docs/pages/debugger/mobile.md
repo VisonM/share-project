@@ -35,7 +35,7 @@ adb install apk
 [![npm](https://img.shields.io/github/stars/Tencent/vConsole)](https://github.com/Tencent/vConsole)
 
 #### preview
-<img src="./../../_media/debugger/vconsole.png"/>
+<img src="./../../media/debugger/vconsole.png"/>
 
 #### Usage
 
@@ -55,7 +55,7 @@ import 'path/to/vconsole.min.d.ts';
 ### eruda
 [![npm](https://img.shields.io/github/stars/liriliri/eruda)](https://github.com/liriliri/eruda)
 #### preview
-<img src="./../../_media/debugger/eruda.png"/>
+<img src="./../../media/debugger/eruda.png"/>
 
 #### Usage
 
